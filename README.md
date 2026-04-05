@@ -28,9 +28,5 @@
 ### 📊 Tools
 ![Tools](https://skillicons.dev/icons?i=git,github,docker,postman)
 
-## 📫 Connect with Me
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/navitha-sri-n?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
-
 
 ⭐ *Always learning, always building*
