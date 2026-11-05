@@ -22,7 +22,7 @@
 ![Frontend](https://skillicons.dev/icons?i=html,css,react)
 
 ### ⚙️ Backend & Frameworks
-![Backend](https://skillicons.dev/icons?i=django,fastapi,nodejs,express)
+![Backend](https://skillicons.dev/icons?i=django,fastapi)
 
 ### 🗄️ Databases
 ![Database](https://skillicons.dev/icons?i=mysql,postgresql)
